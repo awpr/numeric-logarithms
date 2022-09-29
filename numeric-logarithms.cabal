@@ -11,10 +11,10 @@ description:    This provides a user-facing API for the GHC primitive 'integerLo
                 form of functions computing the floor, ceiling, or other rounded form of the
                 base-2 logarithm of 'Integral' or 'Rational' types.
 category:       Numeric
-homepage:       https://github.com/google/hs-numeric-logarithms#readme
-bug-reports:    https://github.com/google/hs-numeric-logarithms/issues
-author:         Andrew Pritchard <awpr@google.com>
-maintainer:     Andrew Pritchard <awpr@google.com>
+homepage:       https://github.com/awpr/numeric-logarithms#readme
+bug-reports:    https://github.com/awpr/numeric-logarithms/issues
+author:         Andrew Pritchard <awpritchard@gmail.com>
+maintainer:     Andrew Pritchard <awpritchard@gmail.com>
 copyright:      2018-2021 Google LLC
 license:        Apache-2.0
 license-file:   LICENSE
@@ -24,7 +24,7 @@ extra-source-files:
 
 source-repository head
   type: git
-  location: https://github.com/google/hs-numeric-logarithms
+  location: https://github.com/awpr/numeric-logarithms
 
 library
   exposed-modules:

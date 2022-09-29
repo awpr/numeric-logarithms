@@ -21,10 +21,10 @@ description: |
   form of functions computing the floor, ceiling, or other rounded form of the
   base-2 logarithm of 'Integral' or 'Rational' types.
 license: Apache-2.0
-author: Andrew Pritchard <awpr@google.com>
+author: Andrew Pritchard <awpritchard@gmail.com>
 copyright: 2018-2021 Google LLC
-maintainer: Andrew Pritchard <awpr@google.com>
-github: google/hs-numeric-logarithms
+maintainer: Andrew Pritchard <awpritchard@gmail.com>
+github: awpr/numeric-logarithms
 
 # Note: this causes CHANGELOG.md to be included in Hackage distributions.
 extra-source-files:
